@@ -1,4 +1,4 @@
-# exercise_detection_reps
+# Exercise Recognition and Repetition Count
 AI Code to Recognize Exercises and Count Reps.
 For exercise recognition, we utilized the OpenVINO action_recognition_0001 pre-trained model. Subsequently, we integrated a customized logic layer to specifically identify actions classifiable as exercises.
 To count repetitions, we employed MediaPipe to identify Body Landmarks. Using these landmarks, we calculated joint angles and assessed positions (Extension & Contraction) to count repetitions accurately.
