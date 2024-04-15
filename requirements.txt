@@ -1,0 +1,7 @@
+collections
+pandas
+opencv-python
+numpy
+IPython
+openvino
+mediapipe
