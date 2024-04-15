@@ -25,4 +25,5 @@ https://github.com/aldemarp93/exercise_detection_reps/assets/131469036/a5eb57ee-
 
 ## Acknowledgements
 - The exercise detection and tracking algorithm is based on [OpenCV](https://opencv.org/) and [TensorFlow](https://www.tensorflow.org/).
+- The code is based on OpenVino example notebooks [Github_openvinotoolkit](https://github.com/openvinotoolkit/openvino_notebooks/blob/main/notebooks/403-action-recognition-webcam/403-action-recognition-webcam.ipynb).
 - The repetition counter and Landmark detection comes from MediaPipe.
