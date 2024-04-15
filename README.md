@@ -19,7 +19,9 @@ pip install -r requirements.txt
 3. Open the IPYNB on Anaconda and follow the instructions in the notebook.
 
 ## Demo
-[![Demo Video](https://github.com/aldemarp93/exercise_detection_reps/raw/main/exercise_demo.mp4)](https://github.com/aldemarp93/exercise_detection_reps/raw/main/exercise_demo.mp4)
+https://github.com/aldemarp93/exercise_detection_reps/assets/131469036/a5eb57ee-6704-4405-af48-16e70759063c
+
+
 
 ## Acknowledgements
 - The exercise detection and tracking algorithm is based on [OpenCV](https://opencv.org/) and [TensorFlow](https://www.tensorflow.org/).
