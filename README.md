@@ -15,7 +15,7 @@ As an additional feature, the code can save the analyzed frames and make a video
 ## Installation
 1. Download the IPYNB file code_ex_detection.ipynb.
 2. Install the required Python dependencies:
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 3. Open the IPYNB on Anaconda and follow the instructions in the notebook.
 
 ## Demo
